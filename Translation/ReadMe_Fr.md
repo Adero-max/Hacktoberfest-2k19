@@ -1,5 +1,5 @@
 # Le Micro Club Participe Au Hacktoberfest 2019!
-## 🚀✨ Contribution Amicale pour débutants et novices ✨🚀
+## 🚀✨ Contribution amicale pour débutants et novices ✨🚀
 ### (contribution ouverte au public)
 
 ![Micro Club does Hacktoberfest](https://www.pixenli.com/image/TNHZG723)
@@ -31,7 +31,7 @@ Les premières ** 50 000 ** personnes du monde à accomplir  4  pull request à 
 > - **Inscrivez –vous a n’importe quel moment  entre le 1er Octobre et le 31 Octobre. **
 
 
-## Comment participer et contibuer a ce projet?
+## Comment participer et contribuer a ce projet?
 ![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest%20participation%3A-How%20to%20get%20involved%20and%20win%20that%20AEWSOME%20LIMITED%20EDITION%20T--SHIRT%3F%20Check%20this-orange?style=for-the-badge)
 
 Create your very first **Pull Request** to any public repository on GitHub and contribute to the open source developer community.

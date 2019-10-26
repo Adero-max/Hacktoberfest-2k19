@@ -34,20 +34,20 @@ Les premières ** 50 000 ** personnes du monde à accomplir  4  pull request à 
 ## Comment participer et contribuer a ce projet?
 ![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest%20participation%3A-How%20to%20get%20involved%20and%20win%20that%20AEWSOME%20LIMITED%20EDITION%20T--SHIRT%3F%20Check%20this-orange?style=for-the-badge)
 
-Create your very first **Pull Request** to any public repository on GitHub and contribute to the open source developer community.
+Crée ta première **Pull Request** dans n'importe quel repository sur GitHub et contribue à l'open source developer community.
 
-Here are 3 quick guided ways to contribute to this project:
+voicie 3 moyens rapides pour contribuer à ce projet:
 
-* Add a profile page to the `/profiles` directory.
-* Upload a project of your own.
-* [Create your own customized Octocat](https://myoctocat.com/) and upload it to `/my-Octocat` directory with a chance to see it printed as sticker!
+* ajoute une page de profile `/profiles` directory.
+* télécharge ton projet.
+* [Crée et customise ton Octocat](https://myoctocat.com/) et télécharge ton fichier dans `/my-Octocat` directory avec une chance de voir ton octocat imprimer autant que sticker!
 
-Choose one or all 3, make a pull request for your work and wait for it to be merged!
+choisie une ou toutes les 3, fait une pull request pour ton travaille et attend qu'elle soit fusionnée!
 
-### Rules:
-* _Make sure to sign up first to the event website using your GitHub account: [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)_
-* Everyone is welcome! Begginers, veterans, non developpers all around the world!
-* All uploaded projects should got into the **_/Projects_** folder inside their dedicated topic folder e.g: **_/Projects/Web/MyAmazingProject_**
+### Régles:
+* _Soyez sûre de vous inscrire au site de l'évent en utilisant votre compte GitHub: [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)_
+* Tous le monde est le bienvenue Novice, vétérans ,non développeurs du monde entier!
+* All uploaded projects should got into the /Projects folder inside their dedicated topic folder e.g: /Projects/Web/MyAmazingProjec
 * Always check the repo's **issues** to avoid duplicates
 * Every contribution is welcome (project upload, code fix, design, tutorials, documentation, fixing typos ...etc) but we prefer **quality over quantity** so avoid making 5 PRs to fix 5 obvious grammar mistakes juste to get the challenge completed faster.
 * If the PR doesnt aligne with the event and the repo's rules then it will be marked as invalid. :x:
